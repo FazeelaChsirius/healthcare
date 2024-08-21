@@ -97,6 +97,7 @@ const Layout = ({ children }) => {
         </aside>
 
         <section
+            className="pb-2"
             style={{
                 marginLeft: spacing,
                 transition: '300ms'
